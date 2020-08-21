@@ -7,7 +7,7 @@
 After having a looks we think that perhaps in the future Amazon Key Spaces could be a feasible choice but not in this momment 
 because its complexity.
 
-**The 2 first rows in the table below are the EC2 amis recommended as best practice.**Those instances offer 10–Gb/s performance
+**The 2 first rows in the table below are the EC2 amis recommended as best practice.**Those instances offer 10–Gb/s performance.**
 
 **The 2 last row in the table below have been tested in a moderated porduction environment and looks quite well.**
 
